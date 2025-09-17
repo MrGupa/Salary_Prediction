@@ -36,6 +36,6 @@ To run this notebook, you need to set up a Python environment with the required 
 4. **Run the Notebook**:
    Open the Jupyter notebook:
    ```
-   jupyter notebook Copy_of_Salary_Prediction.ipynb
+   jupyter notebook Salary_Prediction.ipynb
    ```
 
